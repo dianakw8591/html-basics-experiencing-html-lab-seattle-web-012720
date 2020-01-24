@@ -1,0 +1,5 @@
+"armchair"
+"dining table"
+"dresser"
+"kitchen cart"
+"shelves"
